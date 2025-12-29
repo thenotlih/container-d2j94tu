@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "thenotlih",
+  "repo": "container-d2j94tu",
+  "name": "thenotlih",
+  "email": "sgn.br@hotmail.com",
+}
